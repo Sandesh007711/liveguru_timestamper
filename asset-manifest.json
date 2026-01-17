@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/liveguru_timestamperr/static/css/main.96f86608.css",
+    "main.js": "/liveguru_timestamperr/static/js/main.ad29d96d.js",
+    "index.html": "/liveguru_timestamperr/index.html",
+    "main.96f86608.css.map": "/liveguru_timestamperr/static/css/main.96f86608.css.map",
+    "main.ad29d96d.js.map": "/liveguru_timestamperr/static/js/main.ad29d96d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f86608.css",
+    "static/js/main.ad29d96d.js"
+  ]
+}
